@@ -1,6 +1,6 @@
 # Horta automática
 
-Projeto da disciplina "Porjeto 3" da UFRGS
+Projeto da disciplina "Projeto 3" da UFRGS
 
 
 ## Referências
